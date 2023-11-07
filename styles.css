@@ -1,1 +1,11 @@
+.contaiiner{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+img{
+	height:100%;
+	widtht:100%;
+	object-fit: cover;
+}
 /*  your css code here. If applicable */
